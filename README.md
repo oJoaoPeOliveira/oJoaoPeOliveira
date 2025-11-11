@@ -2,7 +2,7 @@
 
 I'm currently studying Systems Analysis and Development at the University of Vale do Sinos (UNISINOS) and have a background as an IT Technician. While I currently enjoy a great position as a Technical Assistant at Anildo Advogado, my passion lies in becoming a developer.
 
-I'm actively studying to make this transition into the development field, and I'm open to exploring opportunities in both frontend and backend development, across different programming languages. Alongside my university studies, I'm taking courses 📚 to further develop my skills and knowledge as a developer. My current focus is on backend development ⚙️, and I'm particularly interested in the Java language ☕.
+I'm actively studying to make this transition into the development field, and I'm open to exploring opportunities in both frontend and backend development, across different programming languages. Alongside my university studies, I'm taking courses 📚 to further develop my skills and knowledge as a developer. My current focus is on backend development ⚙️, and I'm particularly interested in the Python language 🐍.
 
 ### Contacts 🔗
 <div>
